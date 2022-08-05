@@ -13,6 +13,6 @@ https://dicodering.github.io/baskin-clone/baskinrobbins/
 <br/><br/>
 
 ## 💡 Main Features
-* ✅ 레이아웃 구성하기
+* ✅ 레이아웃 구성
 <br/><br/>
 
